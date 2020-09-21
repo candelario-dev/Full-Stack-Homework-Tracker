@@ -1,0 +1,57 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("img/time.jpg");
+  background-size: cover;
+  box-sizing: border-box;
+}
+img{
+  height: 200px;
+}
+ .container, .jumbotron{
+   background-color: #00A99E;
+ }
+.btn-lg{
+  background: blue;
+  border: blue;
+}
+.indexA{
+  color: purple;
+}
+.profileContain{
+  text-align: center;
+  height: 80vh;
+}
+ul{
+  list-style-type: none;
+}
+.profileBody{
+    padding: 0;
+    width: 80%;
+    margin-left: 10%;
+}
+.big, .timer{
+  width: 50%;
+  float: left;
+}
+.profileh1{
+  padding-top: 50px;
+  font-size: 2.5rem;
+}
+.profileInput{
+  padding: 1%;
+}
+li{
+  font-size: 1.5rem;
+}
+.name, .nameInput{
+  display: none;
+}
+.clock-label, .clock-timer{
+  font-size: 2rem;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.clock-timer{
+  text-decoration: underline;
+}
